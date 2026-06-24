@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Younes
+# Hey, I'm Younes
 
 ### 🎓 Student at 1337 School
 
