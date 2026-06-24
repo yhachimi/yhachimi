@@ -1,46 +1,48 @@
-# Hey, I'm Younes
+<div align="center">
+  <h1>👋 Hello World! I'm Younes</h1>
+  <h3>🚀 1337 Student | Future Systems & Security Engineer</h3>
+</div>
 
-### 🎓 Student at 1337 School
-
-Passionate about low-level programming, Linux systems, cybersecurity, and problem solving.
-
----
-
-## 🚀 About Me
-
-* 🎓 Currently studying at **1337 School**
-* 💻 Learning **C, Algorithms, Data Structures, and System Programming**
-* 🐧 Daily Linux user
-* 🔒 Interested in **Cybersecurity & Ethical Hacking**
-* 🧠 Enjoy solving programming challenges and understanding how things work under the hood
-* 🌱 Currently improving my skills in:
-
-  * C Programming
-  * Python
-  * Linux Administration
-  * Networking
-  * Web Security
+<div align="center">
+  <h3>💡 "The best way to understand a system is to build it."</h3>
+  <p><em>Learning by doing, debugging, and improving every day.</em></p>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌟 About Me
 
-### Languages
+```typescript
+const younes = {
+  name: "Younes",
+  role: "1337 School Student",
+  location: "🇲🇦 Morocco",
+  interests: ["Low-level Programming", "Linux", "Cybersecurity", "Algorithms", "Problem Solving"],
+  currentlyWorkingOn: "42 core projects + systems fundamentals",
+  lookingFor: "Learning opportunities and interesting collaborations",
+  funFact: "I enjoy understanding what happens under the hood ⚙️",
+  languages: ["C", "Python", "Bash"],
+  tools: ["Git", "Vim", "Linux", "Debian"]
+}
+```
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+---
 
-### Operating Systems
+## ⚡ Tech Stack
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge\&logo=debian\&logoColor=white)
+### 👨‍💻 Languages
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Bash](https://img.shields.io/badge/-Bash-121011?logo=gnu-bash&logoColor=white&style=for-the-badge)
 
-### Tools
+### 🐧 Operating Systems
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge\&logo=vim\&logoColor=white)
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -61,27 +63,40 @@ Passionate about low-level programming, Linux systems, cybersecurity, and proble
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yhachimi\&show_icons=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yhachimi&theme=radical&hide_border=true" alt="yhachimi streak stats" width="51%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yhachimi&show_icons=true&theme=radical&hide_border=true" alt="yhachimi github stats" width="48%" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yhachimi\&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhachimi&layout=compact&theme=radical&hide_border=true" alt="yhachimi top languages" width="45%" />
+</div>
 
 ---
 
 ## 🎯 Goals
 
-* Become a skilled Software Engineer
-* Master Linux Internals
-* Learn Advanced Cybersecurity
-* Contribute to Open Source Projects
-* Build useful and secure software
+- Become a skilled Software Engineer
+- Master Linux internals and system programming
+- Learn advanced cybersecurity and secure coding
+- Contribute to open source projects
+- Build useful, performant, and secure software
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/yhachimi
-* LinkedIn: Add your LinkedIn profile here
+<div align="center">
+  <a href="https://github.com/yhachimi">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
 ---
 
-> "The best way to understand a system is to build it."
+<div align="center">
+  <i>⚙️ Always learning, always building.</i>
+</div>
