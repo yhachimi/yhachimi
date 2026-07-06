@@ -1,12 +1,16 @@
 <div align="center">
 
-# 👋 Hi, I'm Younes Hachimi
+# Hi 👋, I'm Younes Hachimi
 
-### 1337 Student • Systems Programming • Linux • AI • Cybersecurity
+### Systems Programming • Linux • AI Engineering • Cybersecurity
 
-*"Understanding systems from the inside out."*
+*"Learning how computers work from the inside out."*
 
-<img src="https://komarev.com/ghpvc/?username=yhachimi&style=flat-square&color=blue" />
+<p>
+  <a href="https://github.com/yhachimi">
+    <img src="https://komarev.com/ghpvc/?username=yhachimi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
 </div>
 
@@ -14,28 +18,28 @@
 
 # 👨‍💻 About Me
 
-I'm a **1337 (42 Network)** student from Morocco passionate about low-level software, operating systems, Linux internals and Artificial Intelligence.
+I'm a **1337 (42 Network)** student from **Morocco 🇲🇦** passionate about low-level software, Linux, operating systems, algorithms, and artificial intelligence.
 
-I enjoy building software that teaches me how computers really work—from memory management and algorithms to shells, networking and modern AI systems.
+I enjoy building projects that help me understand how computers actually work—from memory management and system calls to networking and AI applications.
 
-Currently I'm exploring **Retrieval-Augmented Generation (RAG)** while continuing the 42 Core Curriculum.
+Currently, I'm building a **Retrieval-Augmented Generation (RAG)** system while continuing the 42 Core Curriculum.
 
 ---
 
 # 🚀 Current Focus
 
-- 🔥 RAG (Retrieval-Augmented Generation)
-- 🐧 Linux Internals
-- ⚙️ System Programming
+- 🤖 Retrieval-Augmented Generation (RAG)
+- 🐧 Linux & System Programming
+- ⚙️ C Programming
 - 🧠 Algorithms & Data Structures
-- 🔐 Cybersecurity
+- 🔐 Cybersecurity Fundamentals
 - ☁️ AI Engineering
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
-## Languages
+### Languages
 
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -43,30 +47,30 @@ Currently I'm exploring **Retrieval-Augmented Generation (RAG)** while continuin
 <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
-## AI
+### AI & Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-444444?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-0055FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-0052CC?style=for-the-badge"/>
 </p>
 
-## Operating System
+### Systems
 
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
 </p>
 
-## Tools
+### Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim"/>
 <img src="https://img.shields.io/badge/GDB-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Make-00599C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Valgrind-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Make-00599C?style=for-the-badge"/>
 </p>
 
 ---
@@ -74,18 +78,18 @@ Currently I'm exploring **Retrieval-Augmented Generation (RAG)** while continuin
 # 📚 42 Progress
 
 | Project | Status |
-|----------|--------|
+|---------|:------:|
 | Libft | ✅ |
 | ft_printf | ✅ |
 | get_next_line | ✅ |
 | Born2beroot | ✅ |
 | push_swap | ✅ |
+| Python Modules | ✅ |
 | A-Maze-ing | ✅ |
 | Codexion | ✅ |
 | Fly-in | ✅ |
 | Call Me Maybe | ✅ |
-| Python Modules | ✅ |
-| RAG Project | 🚧 In Progress |
+| RAG Project | 🚧 |
 
 ---
 
@@ -93,13 +97,13 @@ Currently I'm exploring **Retrieval-Augmented Generation (RAG)** while continuin
 
 ### 📚 Libft
 
-Reimplementation of the C Standard Library.
+A custom implementation of the C Standard Library.
 
 ---
 
-### 🖨 ft_printf
+### 🖨️ ft_printf
 
-Implementation of printf using variadic functions.
+Reimplementation of the standard `printf` function using variadic arguments.
 
 ---
 
@@ -111,60 +115,76 @@ Efficient line-by-line file reader.
 
 ### 🔀 push_swap
 
-Sorting algorithms with stack operations.
+Stack-based sorting algorithm with optimized operations.
 
 ---
 
-### 🤖 RAG (Current Project)
+### 🤖 RAG
 
-Building an AI system capable of retrieving relevant information before generating responses using modern Retrieval-Augmented Generation techniques.
+Building a Retrieval-Augmented Generation pipeline that retrieves relevant knowledge before generating responses with LLMs.
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Statistics
+
+> **Note:** GitHub Stats services occasionally experience outages. If they don't load, your pinned repositories and GitHub contribution graph remain the most reliable indicators of activity.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yhachimi&theme=tokyonight&show_icons=true&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yhachimi&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhachimi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhachimi&layout=compact&theme=github_dark&hide_border=true"/>
 
-<img width="700" src="https://streak-stats.demolab.com?user=yhachimi&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+
+<img width="75%" src="https://streak-stats.demolab.com?user=yhachimi&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🎯 Goals
+# 🎯 Goals for 2026
 
 - Complete the 42 Core Curriculum
-- Build my own Unix Shell
-- Learn Linux Kernel Internals
-- Master System Programming
-- Become an AI Engineer
-- Learn Offensive Security
+- Build a Unix Shell
+- Master Linux Internals
+- Learn Advanced System Programming
+- Build Production-Ready AI Applications
 - Contribute to Open Source
+- Become a Systems & AI Engineer
 
 ---
 
-# 📫 Contact
+# 🌱 Currently Learning
 
-<div align="center">
+- System Calls
+- Memory Management
+- Process Management
+- Linux Internals
+- Retrieval-Augmented Generation
+- Large Language Models
+- Networking
 
+---
+
+# 📫 Connect With Me
+
+<p align="center">
 <a href="https://github.com/yhachimi">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/yhachimi/">
+<a href="https://www.linkedin.com/in/yhachimi">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### ⚡ Always learning. Always building.
+### ⚡ "Always learning. Always building."
 
 </div>
