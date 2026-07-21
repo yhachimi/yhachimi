@@ -125,26 +125,6 @@ Building a Retrieval-Augmented Generation pipeline that retrieves relevant knowl
 
 ---
 
-# 📊 GitHub Statistics
-
-> **Note:** GitHub Stats services occasionally experience outages. If they don't load, your pinned repositories and GitHub contribution graph remain the most reliable indicators of activity.
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yhachimi&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhachimi&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
-
-</div>
-
-<div align="center">
-
-<img width="75%" src="https://streak-stats.demolab.com?user=yhachimi&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats"/>
-
-</div>
-
----
-
 # 🎯 Goals for 2026
 
 - Complete the 42 Core Curriculum
