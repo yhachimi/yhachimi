@@ -42,35 +42,35 @@ Currently, I'm building a **Retrieval-Augmented Generation (RAG)** system while 
 ### Languages
 
 <p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
 </p>
 
 ### AI & Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/RAG-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-444444?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-black?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/LLMs-444444?style=for-the-badge" alt="LLMs"/>
+<img src="https://img.shields.io/badge/Embeddings-0052CC?style=for-the-badge" alt="Embeddings"/>
 </p>
 
 ### Systems
 
 <p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim"/>
-<img src="https://img.shields.io/badge/GDB-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Valgrind-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Make-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim" alt="Vim"/>
+<img src="https://img.shields.io/badge/GDB-black?style=for-the-badge" alt="GDB"/>
+<img src="https://img.shields.io/badge/Valgrind-red?style=for-the-badge" alt="Valgrind"/>
+<img src="https://img.shields.io/badge/Make-00599C?style=for-the-badge" alt="Make"/>
 </p>
 
 ---
@@ -131,15 +131,15 @@ Building a Retrieval-Augmented Generation pipeline that retrieves relevant knowl
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yhachimi&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yhachimi&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhachimi&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhachimi&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
 
 </div>
 
 <div align="center">
 
-<img width="75%" src="https://streak-stats.demolab.com?user=yhachimi&theme=github-dark-blue&hide_border=true"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=yhachimi&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats"/>
 
 </div>
 
@@ -173,11 +173,11 @@ Building a Retrieval-Augmented Generation pipeline that retrieves relevant knowl
 
 <p align="center">
 <a href="https://github.com/yhachimi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yhachimi">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 </p>
 
