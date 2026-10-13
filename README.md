@@ -89,10 +89,10 @@ Currently, I'm building a **Retrieval-Augmented Generation (RAG)** system while 
 | Codexion | ✅ |
 | Fly-in | ✅ |
 | Call Me Maybe | ✅ |
-| RAG Project |✅ |
-| Pacman Game ✅|
-| Netpractice ✅|
-| inception  | 
+| RAG Project | ✅ |
+| Pacman Game | ✅ |
+| Netpractice | ✅ |
+| inception |...| 
 
 ---
 
