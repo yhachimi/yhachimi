@@ -89,7 +89,10 @@ Currently, I'm building a **Retrieval-Augmented Generation (RAG)** system while 
 | Codexion | ✅ |
 | Fly-in | ✅ |
 | Call Me Maybe | ✅ |
-| RAG Project | 🚧 |
+| RAG Project |✅ |
+| Pacman Game ✅|
+| Netpractice ✅|
+| inception  | 
 
 ---
 
@@ -129,6 +132,7 @@ Building a Retrieval-Augmented Generation pipeline that retrieves relevant knowl
 
 - Complete the 42 Core Curriculum
 - Build a Unix Shell
+- Become an etichal hacker
 - Master Linux Internals
 - Learn Advanced System Programming
 - Build Production-Ready AI Applications
@@ -139,13 +143,11 @@ Building a Retrieval-Augmented Generation pipeline that retrieves relevant knowl
 
 # 🌱 Currently Learning
 
-- System Calls
-- Memory Management
-- Process Management
-- Linux Internals
-- Retrieval-Augmented Generation
-- Large Language Models
-- Networking
+
+- full stack
+- cyber secerty
+- docker file
+- wep server
 
 ---
 
